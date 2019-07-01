@@ -1,3 +1,4 @@
+#ブロック崩し
 from tkinter import*
 import time
 import random
