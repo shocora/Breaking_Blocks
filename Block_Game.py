@@ -1,4 +1,6 @@
 #ブロック崩し
+
+#コミット1
 from tkinter import*
 import time
 import random
